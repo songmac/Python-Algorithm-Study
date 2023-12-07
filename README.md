@@ -52,7 +52,7 @@
     
 
 ## 커밋 메세지 작성 방식
-- Create / Update / Delete ---- File name ---- Why, What 순으로 작성
+- Create / Update / Delete ---- File name ---- Solved/Solving
 - 영어로 작성
 
 	
