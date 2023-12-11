@@ -1,4 +1,4 @@
-# 2023-Study-Coding-Test
+# 2023-Study-Algorithm & Coding
 
 ## 폴더 설명
 📁Algorithm
